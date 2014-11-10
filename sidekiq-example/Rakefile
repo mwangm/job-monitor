@@ -1,0 +1,9 @@
+require_relative 'lib/hard_workers.rb'
+
+namespace :sidekiq do
+
+  desc 'task hard work'
+  task :hard_work do
+    HardWorker.perform_async('Bob', 1)
+  end
+end

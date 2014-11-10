@@ -1,0 +1,3 @@
+HardWorker:
+  cron: "* * * * *"
+  queue: default

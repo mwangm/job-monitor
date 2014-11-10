@@ -1,0 +1,6 @@
+source :rubygems
+
+gem 'sidekiq'
+gem 'sinatra'
+gem 'whenever'
+gem 'rake'

@@ -1,0 +1,12 @@
+require_relative 'lib/hard_worker.rb'
+require 'resque/tasks'
+require 'resque/scheduler/tasks'
+require 'yaml'
+
+namespace :resque do
+  task :setup do
+    require 'resque'
+    require 'resque-scheduler'
+    Resque.schedule = YAML.load_file('./schedule.yml')
+  end
+end
