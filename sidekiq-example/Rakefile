@@ -1,4 +1,5 @@
 require_relative 'lib/hard_workers.rb'
+require_relative 'sidekiq_config.rb'
 
 namespace :sidekiq do
 

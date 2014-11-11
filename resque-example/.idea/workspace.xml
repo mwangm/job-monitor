@@ -34,10 +34,8 @@
       <file leaf-file-name="schedule.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
-              <folding>
-                <marker date="1415589837000" expanded="true" signature="0:48" placeholder="HardWorker:" />
-              </folding>
+            <state line="2" column="16" selection-start="41" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="11" selection-start="59" selection-end="59" vertical-scroll-proportion="0.13464236" vertical-offset="0" max-vertical-offset="713">
+            <state line="8" column="38" selection-start="89" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
               <folding />
             </state>
           </provider>
@@ -63,16 +61,16 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="7" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="312">
+            <state line="4" column="11" selection-start="59" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="312">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hard_worker.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="hard_worker.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/hard_worker.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+            <state line="13" column="5" selection-start="302" selection-end="302" vertical-scroll-proportion="0.43758765" vertical-offset="0" max-vertical-offset="713">
               <folding />
             </state>
           </provider>
@@ -111,8 +109,8 @@
         <option value="$PROJECT_DIR$/schedule.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config.ru" />
-        <option value="$PROJECT_DIR$/lib/hard_worker.rb" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lib/hard_worker.rb" />
       </list>
     </option>
   </component>
@@ -347,25 +345,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/schedule.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
-          <folding>
-            <marker date="1415589837000" expanded="true" signature="0:48" placeholder="HardWorker:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="54" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="7" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="312">
           <folding />
         </state>
       </provider>
@@ -384,16 +366,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/hard_worker.rb">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+        <state line="8" column="38" selection-start="89" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/schedule.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="11" selection-start="59" selection-end="59" vertical-scroll-proportion="0.13464236" vertical-offset="0" max-vertical-offset="713">
+        <state line="2" column="16" selection-start="41" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="11" selection-start="59" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="312">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/hard_worker.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="5" selection-start="302" selection-end="302" vertical-scroll-proportion="0.43758765" vertical-offset="0" max-vertical-offset="713">
           <folding />
         </state>
       </provider>

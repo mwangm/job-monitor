@@ -1,8 +1,4 @@
 require 'sidekiq'
-
-Sidekiq.configure_client do |config|
-  config.redis = { :size => 1 }
-end
-
+require_relative 'sidekiq_config'
 require 'sidekiq/web'
 run Sidekiq::Web
